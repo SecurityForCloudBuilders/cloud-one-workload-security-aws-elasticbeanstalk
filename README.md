@@ -44,9 +44,9 @@ This is a Simple Step-By-Step of how install Trend Micro Workload Security Autom
             /tmp: https://<S3_BUCKET_NAME>/ds_agent_script.tar.gz
         commands:
             ds-install:
-                command: /tmp/<DeploymentScriptName>.sh
+                command: /tmp/<DEPLOYMENT_SCRIPT>.sh
 
-    - > Please replace <S3_BUCKET_NAME> and <DeploymentScriptName> with your values
+    - > Please replace <S3_BUCKET_NAME> and <DEPLOYMENT_SCRIPT> with your values
     d. Save the file
 
 6. Update your deployment
