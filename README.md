@@ -47,6 +47,7 @@ This is a Simple Step-By-Step of how install Trend Micro Workload Security Autom
                 command: /tmp/<DEPLOYMENT_SCRIPT>.sh
 
     - > Please replace <S3_BUCKET_NAME> and <DEPLOYMENT_SCRIPT> with your values
+    
     d. Save the file
 
 6. Update your deployment
